@@ -43,12 +43,12 @@ To install and run this project, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Hayoun01/book_store_api
+    git clone https://www.github.com/Hayoun01/book_store_api.git
     ```
 2. Navigate to the project directory:
 
     ```bash
-    cd book-store
+    cd book_store_api
     ```
 3. Install project dependencies:
 
