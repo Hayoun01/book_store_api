@@ -58,7 +58,7 @@ To install and run this project, follow these steps:
 4. Set up the PostgreSQL database:
 
     * Create a new database named `book_store`.
-    * Import the database schema from the `schema.sql` file in the `db` directory.
+    * GO [TO](#database-migrations)
 
 5. Configure environment variables:
 
