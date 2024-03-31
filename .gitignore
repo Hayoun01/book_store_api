@@ -1,5 +1,6 @@
 .*
 tmp
 !.gitignore
+!.air.toml
 *.exe
 !*.example
